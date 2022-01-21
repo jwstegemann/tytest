@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Binding.scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bsui5" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../c8-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../event-registration-ui" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home" />
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-Xss5m -XX:+UseG1GC" />
+  </component>
+</project>
